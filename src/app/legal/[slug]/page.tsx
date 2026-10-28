@@ -2,7 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPageByRoute } from "@/lib/pages";
-import { EmotionPageShell } from "@/components/EmotionPageShell";
+import { PortfolioPageShell } from "@/components/PortfolioPageShell";
 
 interface LegalPageProps {
   params: Promise<{ slug: string }>;
@@ -14,7 +14,7 @@ export async function generateMetadata({
   const { slug } = await params;
   const page = getPageByRoute(`/legal/${slug}`);
   return {
-    title: page?.title || "Legal — Emotion Agency",
+    title: page?.title || "Legal — Sahil Lunia (Flux Edit)",
     description: page?.description,
   };
 }
@@ -25,5 +25,5 @@ export default async function LegalPage({ params }: LegalPageProps) {
   if (!page) {
     notFound();
   }
-  return <EmotionPageShell page={page} />;
+  return <PortfolioPageShell page={page} />;
 }

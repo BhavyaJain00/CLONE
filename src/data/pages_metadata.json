@@ -29,7 +29,7 @@
     {
       "slug": "index",
       "route": "/",
-      "title": "Emotion Agency \u2014 Interfaces People Remember",
+      "title": "Sahil Lunia — Flux Edit \u2014 Interfaces People Remember",
       "description": "Award-winning websites and digital products for the brands of tomorrow. Design and engineering under one roof since 2018 \u2014 70 international design awards.",
       "stylesheetsCount": 9,
       "hasPayloadSrc": false
@@ -37,7 +37,7 @@
     {
       "slug": "about",
       "route": "/about",
-      "title": "About Emotion Agency \u2014 Design &amp; Engineering Since 2018",
+      "title": "About Sahil Lunia — Flux Edit \u2014 Design &amp; Engineering Since 2018",
       "description": "A design and engineering studio led by two founders, working since 2018 with brands and startups that want to stand out. Recognized by Awwwards and CSSDA.",
       "stylesheetsCount": 7,
       "hasPayloadSrc": false
@@ -45,7 +45,7 @@
     {
       "slug": "projects",
       "route": "/projects",
-      "title": "Work \u2014 Award-Winning Websites | Emotion Agency",
+      "title": "Work \u2014 Award-Winning Websites | Sahil Lunia — Flux Edit",
       "description": "Case studies: WebGL portfolios, e-commerce, Web3, SaaS and AI interfaces \u2014 built with Nuxt, Three.js and GSAP. Awwwards and CSSDA Site of the Day winners.",
       "stylesheetsCount": 2,
       "hasPayloadSrc": false
@@ -53,15 +53,15 @@
     {
       "slug": "contact",
       "route": "/contact",
-      "title": "Contact \u2014 Start a Project with Emotion Agency",
-      "description": "Tell us about the project \u2014 we respond within 24 hours. hello@emotion-agency.com. A design and engineering studio working from Kryvyi Rih, Ukraine in EET.",
+      "title": "Contact \u2014 Start a Project with Sahil Lunia — Flux Edit",
+      "description": "Tell us about the project \u2014 we respond within 24 hours. sahillunia2006@gmail.com. A design and engineering studio working from Kryvyi Rih, India in EET.",
       "stylesheetsCount": 3,
       "hasPayloadSrc": false
     },
     {
       "slug": "project-e-promo",
       "route": "/projects/e-promo",
-      "title": "E Promo \u2014 Web studio Case Study | Emotion Agency",
+      "title": "E Promo \u2014 Web studio Case Study | Sahil Lunia — Flux Edit",
       "description": "Our vision of modern aesthetics and\u00a0engineering. Built with GSAP, Nuxt 3, Three.js.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -69,7 +69,7 @@
     {
       "slug": "project-sofia-shcherbak",
       "route": "/projects/sofia-shcherbak",
-      "title": "Sofia Shcherbak \u2014 Photography Case Study | Emotion Agency",
+      "title": "Sofia Shcherbak \u2014 Photography Case Study | Sahil Lunia — Flux Edit",
       "description": "A photographer\u2019s eye, translated into fluid motion. Built with GSAP, Nuxt 3, Three.js.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -77,7 +77,7 @@
     {
       "slug": "project-flashform",
       "route": "/projects/flashform",
-      "title": "Flashform \u2014 SaaS Case Study | Emotion Agency",
+      "title": "Flashform \u2014 SaaS Case Study | Sahil Lunia — Flux Edit",
       "description": "A product story told entirely through its headlines. Built with GSAP, Nuxt 3, Three.js.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -85,7 +85,7 @@
     {
       "slug": "project-relive-by-coco",
       "route": "/projects/relive-by-coco",
-      "title": "Relive by Coco \u2014 E-commerce Case Study | Emotion Agency",
+      "title": "Relive by Coco \u2014 E-commerce Case Study | Sahil Lunia — Flux Edit",
       "description": "An expressive digital storefront for\u00a0a\u00a0playful brand. Built with GSAP, Nuxt 3, Shopify.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -93,7 +93,7 @@
     {
       "slug": "project-smp-fnnc",
       "route": "/projects/smp-fnnc",
-      "title": "smp fnnc. \u2014 SaaS Case Study | Emotion Agency",
+      "title": "smp fnnc. \u2014 SaaS Case Study | Sahil Lunia — Flux Edit",
       "description": "Turning financial chaos into a fast, understandable flow. Built with Nuxt 3, Express.js.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -101,7 +101,7 @@
     {
       "slug": "project-ksh-design",
       "route": "/projects/ksh-design",
-      "title": "Ksh Design \u2014 Architecture Case Study | Emotion Agency",
+      "title": "Ksh Design \u2014 Architecture Case Study | Sahil Lunia — Flux Edit",
       "description": "An elegant, unhurried showcase for\u00a0an\u00a0interior studio. Built with GSAP, Nuxt 4, Storyblok.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -109,7 +109,7 @@
     {
       "slug": "project-techeters",
       "route": "/projects/techeters",
-      "title": "Techeters \u2014 Marketing Case Study | Emotion Agency",
+      "title": "Techeters \u2014 Marketing Case Study | Sahil Lunia — Flux Edit",
       "description": "A premium tech-boutique feel in\u00a0a\u00a0crowded US market. Built with GSAP, Nuxt 2, WebGL.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -117,7 +117,7 @@
     {
       "slug": "project-aura",
       "route": "/projects/aura",
-      "title": "Aura \u2014 Web3 Case Study | Emotion Agency",
+      "title": "Aura \u2014 Web3 Case Study | Sahil Lunia — Flux Edit",
       "description": "Shipping an MVP for a decentralized identity network. Built with Nuxt 2, Three.js, BrightID.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -125,7 +125,7 @@
     {
       "slug": "project-kairos",
       "route": "/projects/kairos",
-      "title": "Kairos Capital \u2014 Fintech Case Study | Emotion Agency",
+      "title": "Kairos Capital \u2014 Fintech Case Study | Sahil Lunia — Flux Edit",
       "description": "A modern capital fund that truly looks the part. Built with GSAP, Nuxt 3, Storyblok.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -133,7 +133,7 @@
     {
       "slug": "project-ai-tools",
       "route": "/projects/ai-tools",
-      "title": "AI Tools \u2014 AI Case Study | Emotion Agency",
+      "title": "AI Tools \u2014 AI Case Study | Sahil Lunia — Flux Edit",
       "description": "An early vision of what AI interfaces should feel like. Built with GSAP, Nuxt 3.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -141,7 +141,7 @@
     {
       "slug": "project-luxstamp",
       "route": "/projects/luxstamp",
-      "title": "LuxStamp \u2014 E-commerce Case Study | Emotion Agency",
+      "title": "LuxStamp \u2014 E-commerce Case Study | Sahil Lunia — Flux Edit",
       "description": "Turning an outdated site into an\u00a0order-taking machine. Built with GSAP, React.js.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -149,7 +149,7 @@
     {
       "slug": "project-gamemarket",
       "route": "/projects/gamemarket",
-      "title": "Gamemarket \u2014 SaaS Case Study | Emotion Agency",
+      "title": "Gamemarket \u2014 SaaS Case Study | Sahil Lunia — Flux Edit",
       "description": "The automated engine behind an\u00a0app-aggregator\u00a0platform. Built with Nuxt 4, Express.js, Nuxt UI.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -157,7 +157,7 @@
     {
       "slug": "project-ktl",
       "route": "/projects/ktl",
-      "title": "TK KTL \u2014 Logistics Case Study | Emotion Agency",
+      "title": "TK KTL \u2014 Logistics Case Study | Sahil Lunia — Flux Edit",
       "description": "A rail-freight B2B platform rebuilt to drive sales. Built with GSAP, Highway.js, WordPress.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -165,7 +165,7 @@
     {
       "slug": "project-safe-haven",
       "route": "/projects/safe-haven",
-      "title": "Safe Haven \u2014 Fintech Case Study | Emotion Agency",
+      "title": "Safe Haven \u2014 Fintech Case Study | Sahil Lunia — Flux Edit",
       "description": "A financial platform as\u00a0serious as\u00a0the\u00a0money it\u00a0manages. Built with GSAP, Nuxt 2.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -173,7 +173,7 @@
     {
       "slug": "project-leonid-kostetskyi",
       "route": "/projects/leonid-kostetskyi",
-      "title": "Leonid Kostetskyi \u2014 Design Case Study | Emotion Agency",
+      "title": "Leonid Kostetskyi \u2014 Design Case Study | Sahil Lunia — Flux Edit",
       "description": "A masterclass in visual storytelling and independent engineering. Built with GSAP, Nuxt 2, OGL.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -181,7 +181,7 @@
     {
       "slug": "project-icsmt",
       "route": "/projects/icsmt",
-      "title": "ICSMT\u2122 \u2014 Beauty Case Study | Emotion Agency",
+      "title": "ICSMT\u2122 \u2014 Beauty Case Study | Sahil Lunia — Flux Edit",
       "description": "Where pastel meets brutalism for\u00a0a\u00a0barbering technique. Built with GSAP, Nuxt 2.",
       "stylesheetsCount": 8,
       "hasPayloadSrc": true
@@ -190,7 +190,7 @@
       "slug": "legal-privacy-policy",
       "route": "/legal/privacy-policy",
       "title": "Privacy Policy \u2014 Emotion",
-      "description": "How Emotion Agency collects, uses, processes and protects your personal data.",
+      "description": "How Sahil Lunia — Flux Edit collects, uses, processes and protects your personal data.",
       "stylesheetsCount": 4,
       "hasPayloadSrc": false
     },
@@ -198,7 +198,7 @@
       "slug": "legal-terms-of-service",
       "route": "/legal/terms-of-service",
       "title": "Terms of Service \u2014 Emotion",
-      "description": "The terms governing your use of the Emotion Agency website and services.",
+      "description": "The terms governing your use of the Sahil Lunia — Flux Edit website and services.",
       "stylesheetsCount": 4,
       "hasPayloadSrc": false
     }

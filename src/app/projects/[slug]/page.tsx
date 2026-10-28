@@ -2,7 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPageByRoute } from "@/lib/pages";
-import { EmotionPageShell } from "@/components/EmotionPageShell";
+import { PortfolioPageShell } from "@/components/PortfolioPageShell";
 
 interface ProjectPageProps {
   params: Promise<{ slug: string }>;
@@ -14,7 +14,7 @@ export async function generateMetadata({
   const { slug } = await params;
   const page = getPageByRoute(`/projects/${slug}`);
   return {
-    title: page?.title || "Project — Emotion Agency",
+    title: page?.title || "Project — Sahil Lunia (Flux Edit)",
     description: page?.description,
   };
 }
@@ -27,5 +27,5 @@ export default async function ProjectCaseStudyPage({
   if (!page) {
     notFound();
   }
-  return <EmotionPageShell page={page} />;
+  return <PortfolioPageShell page={page} />;
 }

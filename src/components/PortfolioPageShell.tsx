@@ -6,11 +6,11 @@ import type { CleanPageData } from "@/lib/pages";
 declare global {
   interface Window {
     __NUXT__?: Record<string, unknown>;
-    __emotionWebGLBooted?: boolean;
+    __fluxWebGLBooted?: boolean;
   }
 }
 
-export function EmotionPageShell({ page }: { page: CleanPageData }) {
+export function PortfolioPageShell({ page }: { page: CleanPageData }) {
   useEffect(() => {
     // 1. Sync theme attribute from cookie if present, defaulting to light
     const match = document.cookie.match(/(?:^|; )theme=(dark|light)\b/);
@@ -24,7 +24,7 @@ export function EmotionPageShell({ page }: { page: CleanPageData }) {
       window.__NUXT__ = {
         config: {
           public: {
-            calendlyEventUrl: "https://calendly.com/emotion-agency/30min",
+            calendlyEventUrl: "https://wa.me/916377239386",
             siteUrl: window.location.origin,
             gtag: {
               enabled: false,
@@ -72,12 +72,12 @@ export function EmotionPageShell({ page }: { page: CleanPageData }) {
       };
     }
 
-    // 3. Boot the Emotion Agency WebGL + GSAP + Lenis + Nuxt entry bundle once
+    // 3. Boot the Flux Edit WebGL + GSAP + Lenis entry bundle once
     if (
-      !window.__emotionWebGLBooted &&
+      !window.__fluxWebGLBooted &&
       !document.querySelector('script[src="/_nuxt/BqYnmFZw.js"]')
     ) {
-      window.__emotionWebGLBooted = true;
+      window.__fluxWebGLBooted = true;
       const script = document.createElement("script");
       script.type = "module";
       script.src = "/_nuxt/BqYnmFZw.js";

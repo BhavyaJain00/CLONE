@@ -2,7 +2,7 @@ import React from "react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPageByRoute } from "@/lib/pages";
-import { EmotionPageShell } from "@/components/EmotionPageShell";
+import { PortfolioPageShell } from "@/components/PortfolioPageShell";
 
 interface CatchAllPageProps {
   params: Promise<{ slug: string[] }>;
@@ -15,7 +15,7 @@ export async function generateMetadata({
   const route = "/" + (slug || []).join("/");
   const page = getPageByRoute(route);
   return {
-    title: page?.title || "Emotion Agency",
+    title: page?.title || "Sahil Lunia — Flux Edit",
     description: page?.description,
   };
 }
@@ -27,5 +27,5 @@ export default async function CatchAllPage({ params }: CatchAllPageProps) {
   if (!page) {
     notFound();
   }
-  return <EmotionPageShell page={page} />;
+  return <PortfolioPageShell page={page} />;
 }

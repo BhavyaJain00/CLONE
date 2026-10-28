@@ -9,7 +9,7 @@ export interface NavItem {
   badge?: number;
 }
 
-export const EMOTION_NAV_ITEMS: NavItem[] = [
+export const PORTFOLIO_NAV_ITEMS: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "About", href: "/about" },
   { label: "Work", href: "/projects", badge: 16 },
@@ -23,13 +23,13 @@ export function Header() {
         <Link
           href="/"
           className="header__logo"
-          aria-label="Emotion Agency — Home"
+          aria-label="Sahil Lunia — Flux Edit Home"
           data-v-50cb1b2c
         >
-          <span>emotion</span>
+          <span>flux edit.</span>
         </Link>
         <nav className="header__nav" aria-label="Main navigation" data-v-50cb1b2c>
-          {EMOTION_NAV_ITEMS.map((item) => (
+          {PORTFOLIO_NAV_ITEMS.map((item) => (
             <Link
               key={item.href}
               href={item.href}

@@ -4,12 +4,6 @@ const nextConfig: NextConfig = {
   reactStrictMode: false,
   images: {
     unoptimized: true,
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "emotion-agency.com",
-      },
-    ],
   },
   async rewrites() {
     return {

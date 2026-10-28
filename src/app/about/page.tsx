@@ -1,12 +1,12 @@
 import React from "react";
 import type { Metadata } from "next";
 import { getPageByRoute } from "@/lib/pages";
-import { EmotionPageShell } from "@/components/EmotionPageShell";
+import { PortfolioPageShell } from "@/components/PortfolioPageShell";
 
 export function generateMetadata(): Metadata {
   const page = getPageByRoute("/about");
   return {
-    title: page?.title || "About — Emotion Agency",
+    title: page?.title || "About — Sahil Lunia (Flux Edit)",
     description: page?.description,
   };
 }
@@ -16,5 +16,5 @@ export default function AboutPage() {
   if (!page) {
     return <div>About page not found</div>;
   }
-  return <EmotionPageShell page={page} />;
+  return <PortfolioPageShell page={page} />;
 }
