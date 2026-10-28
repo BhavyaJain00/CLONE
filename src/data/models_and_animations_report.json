@@ -1,0 +1,461 @@
+{
+  "glb_models": [
+    {
+      "file": "models/models/awards/awwwards.glb",
+      "size_bytes": 12808,
+      "version": 2,
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 3,
+      "meshes_count": 3,
+      "materials_count": 3,
+      "animations_count": 0,
+      "textures_count": 1,
+      "cameras_count": 0,
+      "node_names": [
+        "Cube.001",
+        "Text",
+        "Cube.002"
+      ],
+      "mesh_names": [
+        "Cube",
+        "Text.001",
+        "Cube.002"
+      ],
+      "material_names": [
+        "Material.005",
+        "Material.001",
+        "Material"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/awards/be.glb",
+      "size_bytes": 38268,
+      "version": 2,
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 6,
+      "meshes_count": 6,
+      "materials_count": 5,
+      "animations_count": 0,
+      "textures_count": 1,
+      "cameras_count": 0,
+      "node_names": [
+        "Cube",
+        "Curve",
+        "Cylinder",
+        "Cylinder.001",
+        "DiscRim",
+        "Text.001"
+      ],
+      "mesh_names": [
+        "Cube.009",
+        "Curve",
+        "Cylinder",
+        "Cylinder.001",
+        "DiscRim",
+        "Text.001"
+      ],
+      "material_names": [
+        "Material.003",
+        "SVGMat",
+        "Material.005",
+        "Material.004",
+        "Material.010"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/awards/ca.glb",
+      "size_bytes": 31152,
+      "version": 2,
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 5,
+      "meshes_count": 5,
+      "materials_count": 4,
+      "animations_count": 0,
+      "textures_count": 1,
+      "cameras_count": 0,
+      "node_names": [
+        "CA_Plate_B",
+        "CA_Plate_F",
+        "CA_Text",
+        "Cube",
+        "Curve"
+      ],
+      "mesh_names": [
+        "Cube.002",
+        "Cube",
+        "CA_Text.001",
+        "Cube.001",
+        "Curve"
+      ],
+      "material_names": [
+        "CA_Plate",
+        "CA_Text_Mat",
+        "Material.001",
+        "Material.004"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/awards/codrops.glb",
+      "size_bytes": 64696,
+      "version": 2,
+      "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 11,
+      "meshes_count": 11,
+      "materials_count": 6,
+      "animations_count": 0,
+      "textures_count": 0,
+      "cameras_count": 0,
+      "node_names": [
+        "Cylinder",
+        "Cylinder.001",
+        "Drop",
+        "Icon_B",
+        "Icon_F",
+        "Pedestal",
+        "Plate",
+        "Tube_A",
+        "Tube_B",
+        "Txt_CODROPS",
+        "Txt_TYMPANUS"
+      ],
+      "mesh_names": [
+        "Cylinder.001",
+        "Cylinder.002",
+        "Drop",
+        "Icon_B",
+        "Icon_F",
+        "Cylinder",
+        "Plate",
+        "Tube_A",
+        "Tube_A.001",
+        "T_CODROPS",
+        "T_TYMPANUS"
+      ],
+      "material_names": [
+        "Codrops_Base",
+        "Codrops_Drop",
+        "Codrops_Light",
+        "Codrops_Plate",
+        "Codrops_Gloss",
+        "Codrops_Text"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/awards/cssda.glb",
+      "size_bytes": 33604,
+      "version": 2,
+      "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 4,
+      "meshes_count": 4,
+      "materials_count": 4,
+      "animations_count": 0,
+      "textures_count": 0,
+      "cameras_count": 0,
+      "node_names": [
+        "Base",
+        "CSSDA_Mark",
+        "Letters",
+        "Pad"
+      ],
+      "mesh_names": [
+        "Cube",
+        "CSSDA_Mark",
+        "Letters",
+        "Cube.001"
+      ],
+      "material_names": [
+        "CSSDA_Base",
+        "CSSDA_Gloss",
+        "CSSDA_Silver",
+        "CSSDA_Purple"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/chair.glb",
+      "size_bytes": 286464,
+      "version": 2,
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 1,
+      "meshes_count": 1,
+      "materials_count": 2,
+      "animations_count": 0,
+      "textures_count": 6,
+      "cameras_count": 0,
+      "node_names": [
+        "Cube.001"
+      ],
+      "mesh_names": [
+        "Cube.001"
+      ],
+      "material_names": [
+        "Material.001",
+        "Material"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/duck.glb",
+      "size_bytes": 36664,
+      "version": 2,
+      "extensionsUsed": [
+        "EXT_texture_webp",
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 1,
+      "meshes_count": 1,
+      "materials_count": 1,
+      "animations_count": 0,
+      "textures_count": 1,
+      "cameras_count": 0,
+      "node_names": [
+        "12248_Bird_v1"
+      ],
+      "mesh_names": [
+        "12248_Bird_v1_1"
+      ],
+      "material_names": [
+        "12248_Bird_v1"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/e.glb",
+      "size_bytes": 9736,
+      "version": 2,
+      "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 1,
+      "meshes_count": 1,
+      "materials_count": 0,
+      "animations_count": 0,
+      "textures_count": 0,
+      "cameras_count": 0,
+      "node_names": [
+        "Mesh1.0"
+      ],
+      "mesh_names": [
+        "Mesh1.0"
+      ],
+      "material_names": [],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/mountain.glb",
+      "size_bytes": 137744,
+      "version": 2,
+      "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+      ],
+      "nodes_count": 1,
+      "meshes_count": 1,
+      "materials_count": 1,
+      "animations_count": 0,
+      "textures_count": 0,
+      "cameras_count": 0,
+      "node_names": [
+        "Rock_1"
+      ],
+      "mesh_names": [
+        "Cube.109"
+      ],
+      "material_names": [
+        "Rock.004"
+      ],
+      "animation_names": []
+    },
+    {
+      "file": "models/models/office.glb",
+      "size_bytes": 3171276,
+      "version": 2,
+      "extensionsUsed": [
+        "KHR_draco_mesh_compression",
+        "KHR_materials_emissive_strength",
+        "KHR_materials_specular",
+        "KHR_texture_basisu"
+      ],
+      "nodes_count": 44,
+      "meshes_count": 42,
+      "materials_count": 42,
+      "animations_count": 0,
+      "textures_count": 25,
+      "cameras_count": 0,
+      "node_names": [
+        "shell_exterior",
+        "box_box_0",
+        "carpet_carpet_0",
+        "dec beside sofa1_dec beside sofa1a_0",
+        "dec beside sofa1_dec beside sofa1b_0",
+        "dec beside sofa1_dec beside sofa1c_0",
+        "dec beside sofa3_dec beside sofa3a_0",
+        "dec beside sofa3_dec beside sofa3b_0",
+        "dec beside sofa3_dec beside sofa3c_0",
+        "dec beside sofa3_dec beside sofa3d_0",
+        "dec on table_dec on table1_0",
+        "dec on table_dec on table2_0",
+        "dec on table_dec on table3_0",
+        "house_house_0",
+        "leaves_leaves1_0",
+        "light_light1_0",
+        "light_light2_0",
+        "seat_seat1_0",
+        "seat_seat2_0",
+        "sofa1_sofa1_0",
+        "sofa2_sofa2_0",
+        "sofa3_sofa3_0",
+        "stone_stone_0",
+        "table_table_0",
+        "tea table_tea table1_0",
+        "tea table_tea table2_0",
+        "vase_vase1_0",
+        "vase_vase2_0",
+        "vase_vase3_0",
+        "vase_vase4_0",
+        "vase_vase5_0",
+        "vase_vase6_0",
+        "wall_wall1_0",
+        "wall_wall2_0",
+        "MBP13.001_MBP13_0",
+        "MBP13Screen.001_MBP13_0",
+        "MBP13.001_MBP13_0",
+        "MBP13Screen.001_MBP13_0",
+        "atrium_collar",
+        "tree_new_bark",
+        "tree_new_leaf",
+        "leaves_stem",
+        "painting_e",
+        "painting_painting_0"
+      ],
+      "mesh_names": [
+        "shell_exterior_mesh.001",
+        "box_box_0",
+        "carpet_carpet_0",
+        "dec beside sofa1_dec beside sofa1a_0",
+        "dec beside sofa1_dec beside sofa1b_0",
+        "dec beside sofa1_dec beside sofa1c_0",
+        "dec beside sofa3_dec beside sofa3a_0",
+        "dec beside sofa3_dec beside sofa3b_0",
+        "dec beside sofa3_dec beside sofa3c_0",
+        "dec beside sofa3_dec beside sofa3d_0",
+        "dec on table_dec on table1_0",
+        "dec on table_dec on table2_0",
+        "dec on table_dec on table3_0",
+        "house_house_0",
+        "leaves_leaves1_0",
+        "light_light1_0",
+        "light_light2_0",
+        "seat_seat1_0",
+        "seat_seat2_0",
+        "sofa1_sofa1_0",
+        "sofa2_sofa2_0",
+        "sofa3_sofa3_0",
+        "stone_stone_0",
+        "table_table_0",
+        "tea table_tea table1_0",
+        "tea table_tea table2_0",
+        "vase_vase1_0",
+        "vase_vase2_0",
+        "vase_vase3_0",
+        "vase_vase4_0",
+        "vase_vase5_0",
+        "vase_vase6_0",
+        "wall_wall1_0",
+        "wall_wall2_0",
+        "MBP13.001_MBP13_0",
+        "MBP13Screen.001_MBP13_0",
+        "atrium_collar",
+        "Bark_9",
+        "Leaf_6",
+        "leaves_stem",
+        "Mesh1.0",
+        "painting_painting_0"
+      ],
+      "material_names": [
+        "mat_exterior_wall",
+        "mat_window_reveal",
+        "material",
+        "carpet",
+        "dec_beside_sofa1a",
+        "dec_beside_sofa1b",
+        "dec_beside_sofa1c",
+        "dec_beside_sofa3a",
+        "dec_beside_sofa3b",
+        "dec_beside_sofa3c",
+        "dec_beside_sofa3d",
+        "dec_on_table1",
+        "dec_on_table2",
+        "dec_on_table3",
+        "house",
+        "leaves1",
+        "light1",
+        "light2",
+        "seat1",
+        "seat2",
+        "sofa1",
+        "sofa2",
+        "sofa3",
+        "stone",
+        "table",
+        "tea_table1",
+        "tea_table2",
+        "vase1",
+        "vase2",
+        "vase3",
+        "vase4",
+        "vase5",
+        "vase6",
+        "wall1",
+        "wall2",
+        "MBP13",
+        "atrium_collar_mat",
+        "Bark",
+        "Leaf",
+        "Branch",
+        "leaves2",
+        "painting"
+      ],
+      "animation_names": []
+    }
+  ],
+  "api_endpoints": [
+    "/api/_nuxt_icon",
+    "/api/claude/chat",
+    "/api/tts/speak",
+    "/api/contact/upload",
+    "/api/contact"
+  ],
+  "contexts": {
+    "office.glb": "olorPrimaries}\"`),Ms)}const dte=\"\"+new URL(\"draco_wasm_wrapper.DxJM36Ib.js\",import.meta.url).href,pte=\"\"+new URL(\"draco_decoder.C32yEggz.wasm\",import.meta.url).href,hA=[{id:\"mountain\",type:\"glb\",src:\"/models/mountain.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"space\",type:\"glb\",src:\"/models/office.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"duck\",type:\"glb\",src:\"/models/duck.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:2},{id:\"award_awwwards\",type:\"glb\",src:\"/models/awards/awwwards.glb\",tags:[\"awards\"],preload:!1},{id:\"award_cssda\",type:\"glb\",src:\"/models/awards/cssda.glb\",tags:[\"awards\"],preload:!1},{id:\"award_be\",type:\"glb\",src:\"/models/awards/be.glb\",tags:[\"awards\"],preload:!1},{id:\"award_ca\",type:\"glb\",src:\"/models/awards/ca.glb\",tags:[\"awards\"],preload:!1},{id:\"award_co",
+    "mountain.glb": "(e.colorPrimaries===ete||console.warn(`THREE.KTX2Loader: Unsupported color primaries, \"${e.colorPrimaries}\"`),Ms)}const dte=\"\"+new URL(\"draco_wasm_wrapper.DxJM36Ib.js\",import.meta.url).href,pte=\"\"+new URL(\"draco_decoder.C32yEggz.wasm\",import.meta.url).href,hA=[{id:\"mountain\",type:\"glb\",src:\"/models/mountain.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"space\",type:\"glb\",src:\"/models/office.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"duck\",type:\"glb\",src:\"/models/duck.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:2},{id:\"award_awwwards\",type:\"glb\",src:\"/models/awards/awwwards.glb\",tags:[\"awards\"],preload:!1},{id:\"award_cssda\",type:\"glb\",src:\"/models/awards/cssda.glb\",tags:[\"awards\"],preload:!1},{id:\"award_be\",type:\"glb\",src:\"/models/awards/be.glb\",tags:[\"awards\"],preload:!1},{id",
+    "chair.glb": "#2a1b4d\"},Dd={ERROR:{COLOR:\"#ff4a3d\",PEAK:.85,ATTACK:.12,HOLD:.3,RELEASE:.55,EMISSIVE_BOOST:.8,FALL_RATE:1},SUCCESS:{COLOR:\"#16a34a\",PEAK:.8,ATTACK:.4,HOLD:3,RELEASE:1.2,EMISSIVE_BOOST:.6,FALL_RATE:2.5}},yh={DOWNSCALE:4,MAX_WIDTH:640,THRESHOLD:.5,STRENGTH_DAY:2,STRENGTH_NIGHT:.5},Ml={MODEL:\"/models/chair.glb\",SEATS:[{position:[2.8,1.3,6.6],yawDeg:-68,scale:8},{position:[-6.5,1.5,.5],yawDeg:13,scale:7.7}],LIGHT:{COLOR_DAY:\"#c9a3ff\",COLOR_NIGHT:\"#8e6cf0\",INTENSITY_DAY:100,INTENSITY_NIGHT:120,POSITION:[0,16,10],TARGET:[-2,1,4],ANGLE:.55,PENUMBRA:.5,DISTANCE:60},AVOID_RADIUS:.65},Zt={PRESET:\"Oak Medium\",SEED:12345,HEIGHT:50,CHILDREN:{0:5,1:4,2:3},RADIUS:{0:2.8,1:.95,2:.85,3:.75},LIMB_ANGLE:55,FORCE_UP:.015,LIMB_START:.55,BRANCH_LENGTH:{1:15,2:9,3:5},LEAF_TYPE:\"aspen\",LEAF_COUNT:Nt.treeLeafCoun",
+    "duck.glb": "rl).href,pte=\"\"+new URL(\"draco_decoder.C32yEggz.wasm\",import.meta.url).href,hA=[{id:\"mountain\",type:\"glb\",src:\"/models/mountain.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"space\",type:\"glb\",src:\"/models/office.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"duck\",type:\"glb\",src:\"/models/duck.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:2},{id:\"award_awwwards\",type:\"glb\",src:\"/models/awards/awwwards.glb\",tags:[\"awards\"],preload:!1},{id:\"award_cssda\",type:\"glb\",src:\"/models/awards/cssda.glb\",tags:[\"awards\"],preload:!1},{id:\"award_be\",type:\"glb\",src:\"/models/awards/be.glb\",tags:[\"awards\"],preload:!1},{id:\"award_ca\",type:\"glb\",src:\"/models/awards/ca.glb\",tags:[\"awards\"],preload:!1},{id:\"award_codrops\",type:\"glb\",src:\"/models/awards/codrops.glb\",tags:[\"awards\"],preload:!1},{id:\"proje",
+    "e.glb": "rimaries}\"`),Ms)}const dte=\"\"+new URL(\"draco_wasm_wrapper.DxJM36Ib.js\",import.meta.url).href,pte=\"\"+new URL(\"draco_decoder.C32yEggz.wasm\",import.meta.url).href,hA=[{id:\"mountain\",type:\"glb\",src:\"/models/mountain.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"space\",type:\"glb\",src:\"/models/office.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"duck\",type:\"glb\",src:\"/models/duck.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:2},{id:\"award_awwwards\",type:\"glb\",src:\"/models/awards/awwwards.glb\",tags:[\"awards\"],preload:!1},{id:\"award_cssda\",type:\"glb\",src:\"/models/awards/cssda.glb\",tags:[\"awards\"],preload:!1},{id:\"award_be\",type:\"glb\",src:\"/models/awards/be.glb\",tags:[\"awards\"],preload:!1},{id:\"award_ca\",type:\"glb\",src:\"/models/awards/ca.glb\",tags:[\"awards\"],preload:!1},{id:\"award_codrops",
+    "awwwards.glb": "\",src:\"/models/mountain.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"space\",type:\"glb\",src:\"/models/office.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:3},{id:\"duck\",type:\"glb\",src:\"/models/duck.glb\",tags:[\"home\",\"hero\"],preload:!0,weight:2},{id:\"award_awwwards\",type:\"glb\",src:\"/models/awards/awwwards.glb\",tags:[\"awards\"],preload:!1},{id:\"award_cssda\",type:\"glb\",src:\"/models/awards/cssda.glb\",tags:[\"awards\"],preload:!1},{id:\"award_be\",type:\"glb\",src:\"/models/awards/be.glb\",tags:[\"awards\"],preload:!1},{id:\"award_ca\",type:\"glb\",src:\"/models/awards/ca.glb\",tags:[\"awards\"],preload:!1},{id:\"award_codrops\",type:\"glb\",src:\"/models/awards/codrops.glb\",tags:[\"awards\"],preload:!1},{id:\"project_aura\",type:\"texture\",src:\"/projects/aura-thumb.webp\",tags:[\"projects\"],preload:!0,weight:2},{id:\"proj",
+    "grassbush": "r_1_M_Normal.jpg\",tags:[\"home\",\"hero\"],preload:!0},{id:\"water_normal_2\",type:\"repeating-texture\",src:\"/water/Water_2_M_Normal.jpg\",tags:[\"home\",\"hero\"],preload:!0},{id:\"noise\",type:\"repeating-texture\",src:\"/noise.jpg\",tags:[\"home\",\"hero\"],preload:!0},{id:\"grass_main\",type:\"texture\",src:\"/grass_text/grassbushcc008.ktx2\",tags:[\"home\",\"hero\"],preload:!0},{id:\"grass_flower_1\",type:\"texture\",src:\"/grass_text/grassbushcc005.ktx2\",tags:[\"home\",\"hero\"],preload:!0},{id:\"grass_flower_2\",type:\"texture\",src:\"/grass_text/grassbushcc006.ktx2\",tags:[\"home\",\"hero\"],preload:!0},{id:\"main\",type:\"audio\",src:[\"/audio/background/webm/main.webm\",\"/audio/background/mp3/main.mp3\"],tags:[\"global\"],preload:!0,weight:4,opts:{loop:!0,volume:.8,channel:\"music\"}},{id:\"transition\",type:\"audio\",src:[\"/audio/effects/webm/",
+    "Water_1_M_Normal": "IARY:\"#cc66ff\",DEEP:\"#6622cc\",WHITE:\"#E7F5F5\"},RIM_COLOR_COOL:6740479,RIM_COLOR_WARM:15892735,SPEC_COLOR:12556799,GLOW_COLOR:10902015,TINT_COLOR:15915519,ENERGY_COLOR:4197721},Mr={WATER_LEVEL:.22,SHORE_SIZE:1.5,DEEP_COLOR:1706544,SHALLOW_COLOR:7028640,SKY_REFLECT_COLOR:12101864,NORMAL_MAP_0:\"/water/Water_1_M_Normal.jpg\",NORMAL_MAP_1:\"/water/Water_2_M_Normal.jpg\",REFLECTION_RESOLUTION:Nt.waterReflectionRes,SCALE:.1,FLOW_SPEED:.1,REFLECTIVITY:.4},Rx={DEEP_COLOR:2626930,SHALLOW_COLOR:4465296,SKY_REFLECT_COLOR:3810677};var KZ=`varying vec3 vWorldPosition;\n\n#include <fog_pars_vertex>\n\nvoid main() {\n  \n  vWorldPosition = position;\n  vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);\n  gl_Position = projectionMatrix * mvPosition;\n\n  #include <fog_vertex>\n}`,JZ=`uniform float uTime;\nuniform ",
+    "fallLeaf": "\n  if (uBloomSource > 0.5) baseColor *= mix(uBloomAir, uBloomGround, vRest);\n\n  \n  float ditherNoise = fract(52.9829189 * fract(dot(gl_FragCoord.xy, vec2(0.06711056, 0.00583715)))) - 0.5;\n  baseColor += ditherNoise / 255.0;\n\n  gl_FragColor = vec4(baseColor, shape * vAlpha);\n}`;const mne=\"\"+new URL(\"fallLeaf.DlVBl2Oz.png\",import.meta.url).href,pi=hne,Gc=fne,BP=-10;class gne{constructor(e){this.wind=e}wind;group=new Ui;tree=null;barkMaterial;leavesMaterial;fallPoints;fallMaterial;bloom=null;treeSphere=new pr;chairs=[];chairLight=null;bloomSourceUniform={value:0};pixelRatioUniform={value:1};_nightMixed=[];glowStrengthUniform={value:pi.GLOW_STRENGTH};_nightT=0;_tint={mix:0};_tintColor=new Te;_tintBoost=0;_tintRelease=Dd.SUCCESS.RELEASE;_tintTl=null;fallTimeUniform={value:0};_fallRate={value:1}",
+    "lofi_loop": ".mp3\"],tags:[\"global\"],preload:!0,weight:4,opts:{loop:!0,volume:.8,channel:\"music\"}},{id:\"transition\",type:\"audio\",src:[\"/audio/effects/webm/transition.webm\",\"/audio/effects/mp3/transition.mp3\"],tags:[\"global\"],preload:!0,weight:2,opts:{rate:.5}},{id:\"lofi\",type:\"audio\",src:[\"/audio/background/webm/lofi_loop.webm\",\"/audio/background/mp3/lofi_loop.mp3\"],tags:[\"global\"],preload:!1,opts:{loop:!0,volume:.2,channel:\"music\"}},{id:\"projects\",type:\"audio\",src:[\"/audio/background/webm/projects.webm\",\"/audio/background/mp3/projects.mp3\"],tags:[\"global\"],preload:!1,opts:{loop:!0,volume:.2,channel:\"music\"}},{id:\"boom\",type:\"audio\",src:[\"/audio/effects/webm/boom.webm\",\"/audio/effects/mp3/boom.mp3\"],tags:[\"global\"],preload:!1},{id:\"typing\",type:\"audio\",src:[\"/audio/effects/webm/typing.webm\",\"/audio/effe",
+    "useStorytelling": "s\",\"./CustomImage.D5L3UxIA.css\",\"./BvT4FXOQ.js\",\"./D7UR8Z7t.js\",\"./lfLONFPP.js\",\"./ColorIndicator.DZe-Zk7b.css\",\"./SpecList.CpwytWaT.css\",\"./SpecRow.Bx754ucH.css\",\"./BYCAFU8v.js\",\"./ProgressRing.K3jOXQdM.css\",\"./_slug_.ChMIlLqx.css\",\"./Ezc0WUd8.js\",\"./BRLf5hrO.js\",\"./g9X7n4P7.js\",\"./Dy_Rgx-N.js\",\"./useStorytellingPage.CTKY23ca.css\",\"./about.DhEJUkQ5.css\",\"./eV2Qa4yo.js\",\"./contact.DbI0CKbH.css\",\"./BMjurZCd.js\",\"./BVfK6aaU.js\",\"./index.Cdy_PYs-.css\",\"./DKDWR7b3.js\",\"./DnmaeqB7.js\",\"./index.zOGQ7nS_.css\",\"./DURsnD1b.js\",\"./4vGu4V0v.js\",\"./ProsePre.D5orA6B_.css\"])))=>i.map(i=>d[i]);\n(function(){const e=document.createElement(\"link\").relList;if(e&&e.supports&&e.supports(\"modulepreload\"))return;for(const s of document.querySelectorAll('link[rel=\"modulepreload\"]'))i(s);new MutationObserver(s=>{f"
+  }
+}
